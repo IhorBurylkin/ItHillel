@@ -3,4 +3,4 @@ def common_elements():
 	y = {num for num in range(100) if num % 5 == 0}
 	return x & y
 
-print(common_elements())
+common_elements()
