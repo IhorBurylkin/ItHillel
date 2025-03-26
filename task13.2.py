@@ -9,7 +9,7 @@ class Counter:
         self.current = start
 
     def set_max(self, max_max):
-            self.max_value = max_max
+        self.max_value = max_max
 
     def set_min(self, min_min):
         self.min_value = min_min
