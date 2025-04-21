@@ -171,15 +171,12 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
-# Config
-config.json
-chat_ids.json
-client_secret.json
-context.json
-white_list.json
+# Text files
+*.json
+*.txt
 
 # Image files
-.jpg
+*.jpg
 
 # PyPI configuration file
 .pypirc
